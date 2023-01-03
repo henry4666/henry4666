@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/henry4666](https://github.com/henry4666)
 
-- 📝 I regularly write articles on [https://henri.hashnode.dev](https://henri.hashnode.dev)
-
 - 💬 Ask me about **css!**
 
 - 📫 How to reach me **henrilac22@gmail.com**
