@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio homepage](https://github.com/henry4666/homepage-prototype)
 
-- 🌱 I’m currently learning **JavaScript @ The Odin Project**
+- 🌱 I’m currently learning **JavaScript @ [The Odin Project](https://www.theodinproject.com/)**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/henry4666)
 
