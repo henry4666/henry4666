@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henri</h1>
 <h3 align="center">Civil engineer studying his way to Software developer.</h3>
 
-- 🔭 I’m currently working on [my portfolio homepage](https://github.com/henry4666/homepage-prototype)
+- 🔭 I’m currently working on [my portfolio homepage](https://henry4666.github.io/homepage-prototype/)
 
 - 🌱 I’m currently learning **JavaScript @ [The Odin Project](https://www.theodinproject.com/)**
 
