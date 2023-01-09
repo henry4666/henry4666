@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript @ The Odin Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/henry4666](https://github.com/henry4666)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/henry4666)
 
 - 💬 Ask me about **css!**
 
